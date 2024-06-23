@@ -12,11 +12,6 @@ This project is a Node.js application that interacts with a PostgreSQL database 
 
 1. Clone the repository to your local machine:
 
-    ```bash
-    git clone https://github.com/yourusername/song-repository.git
-    cd song-repository
-    ```
-
 2. Install the required dependencies:
 
     ```bash
